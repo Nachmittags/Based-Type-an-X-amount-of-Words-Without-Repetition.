@@ -1,0 +1,1 @@
+# Based-Type-an-X-amount-of-Words-Without-Repetition.
